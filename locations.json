@@ -299,8 +299,8 @@
 		"id": 1012,
 		"type": "Territórios",
 		"title": "OG's",
-		"notes": "",
-		"wiki_link": "",
+		"notes": "A Original Gangsters formada por antigos gangsters de Los Santos buscando retornar com os negócios da gangue.",
+		"wiki_link": "https://nopixelsa.fandom.com/pt-br/wiki/OG%27s",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -3924,5 +3924,21 @@
 			{"lat": 5.784, "lng": 37.705},
 			{"lat": 5.784, "lng": 30.489}
 		]
-	}
+	},
+	{
+		"id": 8086,
+		"type": "Territórios",
+		"title": "OG's",
+		"notes": "A Original Gangsters formada por antigos gangsters de Los Santos buscando retornar com os negócios da gangue .",
+		"wiki_link": "https://nopixelsa.fandom.com/pt-br/wiki/OG%27s",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -70.254, "lng": -6.515},
+			{"lat": -69.781, "lng": -6.504},
+			{"lat": -69.788, "lng": -4.636},
+			{"lat": -70.376, "lng": -5.482}
+]
+}
 ]
